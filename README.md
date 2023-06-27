@@ -1,1 +1,1 @@
-# IGT_SOLUTIONS-JAVA_TRAINING
+# IGT-Solutions-Trainings
